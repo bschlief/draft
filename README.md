@@ -1,4 +1,4 @@
-bms-draft
+draft
 =========
 
-An ill fated attempt to practice/learn git and python.
+Fantasy football live draft software using the keyboard as the interface.  Done in ruby.
